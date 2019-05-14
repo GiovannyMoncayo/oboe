@@ -19,7 +19,7 @@
 #include "oboe/Oboe.h"
 
 #include "opensles/AudioStreamBuffered.h"
-#include "common/AudioClock.h"
+#include "oboe/AudioClock.h"
 
 namespace oboe {
 

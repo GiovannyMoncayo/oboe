@@ -24,7 +24,7 @@
 #include "fifo/FifoController.h"
 #include "fifo/FifoControllerIndirect.h"
 #include "fifo/FifoBuffer.h"
-#include "common/AudioClock.h"
+#include "oboe/AudioClock.h"
 
 namespace oboe {
 

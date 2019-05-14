@@ -20,7 +20,7 @@
 
 #include "aaudio/AAudioLoader.h"
 #include "aaudio/AudioStreamAAudio.h"
-#include "common/AudioClock.h"
+#include "oboe/AudioClock.h"
 #include "common/OboeDebug.h"
 #include "oboe/Utilities.h"
 

@@ -15,7 +15,7 @@
  */
 
 #include "oboe/StabilizedCallback.h"
-#include "common/AudioClock.h"
+#include "oboe/AudioClock.h"
 #include "common/Trace.h"
 
 constexpr int32_t kLoadGenerationStepSizeNanos = 20000;
